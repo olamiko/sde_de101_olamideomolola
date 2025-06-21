@@ -1,7 +1,7 @@
 # Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need.
 
 Starting a position as a new hire with the responsibility to enable data analytics is immense.
-This position has the capability of determing how the organization grows and achieves its strategic goal.
+This position has the capability of determining how the organization grows and achieves its strategic goal.
 However, for that opportunity to be realized, some important foundations must be laid. 
 
 Some of these foundational steps are:
