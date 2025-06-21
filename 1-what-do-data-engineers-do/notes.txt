@@ -1,0 +1,17 @@
+# Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need.
+
+Starting a position as a new hire with the responsibility to enable data analytics is immense.
+This position has the capability of determing how the organization grows and achieves its strategic goal.
+However, for that opportunity to be realized, some important foundations must be laid. 
+
+Some of these foundational steps are:
+
+* Understand the vision of the company with regards to data: This step is the most crucial. During this step, One must speak with the necessary stakeholders to understand what they want to achieve with data analytics and why they want to achieve it. One must be able to clarify what the stakeholders have in mind and the expected impact of enabling data analytics in the organization. 
+
+* Understand the current status of the organization with respect to the vision: After understanding the vision, One must know what is their current data analytics set-up. It is helpful to know where they are in the journey so that efforts are not repeated nor resources wasted.
+
+* Understand the current business need: Once we understand the vision of the company and its position with regards to data, we need to identify the business needs and their priorities. This knowledge would enable one to properly create a plan towards the vision.
+
+* Understand the boundaries: The next step on my agenda would be to know the resources available to achieve the vision. One must understand the budget that has been planned to achieve the vision. Also, the available personnel (current and possible future recruitments) must be established. 
+
+Once these foundational steps are understood, then it is easier to chart a pathway from the current state to the goal state of the company.
